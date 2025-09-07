@@ -38,39 +38,36 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools & Skills
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <!-- Python (Devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
+  <!-- Pentaho (ikonnya di-host sendiri atau CDN) -->
+  <img src="https://tambulilabs.com/assets/pentaho-logo-D5I1c3Ad.png" height="30" alt="Pentaho" />
+
+  <!-- Power BI (ikon resmi dari repo Microsoft) -->
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" height="30" alt="Power BI" />
+
+  <!-- Excel (ikon resmi Microsoft Office atau Icon dari CDN) -->
+  <img src="https://cdn-icons-png.freepik.com/256/732/732220.png" height="30" alt="Excel" />
+   <img src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" height="30" alt="Tableau" />
 </p>
 
----
-
-## 🚀 Featured Projects
-- 🔹 [Data Pipeline Automation](https://github.com/Irvandhar/data-pipeline) – ETL pipeline using Python & Airflow  
-- 🔹 [Sales Analytics Dashboard](https://github.com/Irvandhar/sales-dashboard) – Data visualization with PowerBI & SQL  
-- 🔹 [Pentaho ETL Workflows](https://github.com/Irvandhar/pentaho-etl) – Sample ETL jobs with Pentaho  
-
----
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
+  <a href="mailto:irvandhars@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/username/" target="_blank">
+  <a href="https://www.linkedin.com/in/irvandharsyahmadiyatama/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://portfolio-website.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" height="35" alt="portfolio logo" />
   </a>
 </p>
 
----
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Irvandhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
