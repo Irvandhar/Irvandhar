@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Irvandhar/Irvandhar/refs/heads/main/BANNER%20LINKEDIN%20NEWWPASS%202023%20(1).png" alt="Banner" />
+  <img src="https://github.com/Irvandhar/Irvandhar/blob/main/BANNER%20GITHUB.png?raw=true" alt="Banner" />
 </p>
 
 ---
