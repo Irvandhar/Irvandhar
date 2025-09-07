@@ -5,7 +5,8 @@
 
 ---
 
-### 👋 Hi! I'm Irvandhar  
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi! I'm Irvandhar  
+ Hi! I'm Irvandhar  
 
 🎓 Fresh graduate in **Computer Science (Information Systems)** with a strong focus on **Data Engineering** and **Data Analysis**.  
 📜 Certified with **CompTIA DataSys+**, with solid knowledge in **data analysis, database management systems, and business intelligence**.  
