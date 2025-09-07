@@ -7,17 +7,15 @@
 
 ### 👋 Hi! I'm Irvandhar  
 
-📊 **Aspiring Data Engineer** passionate about data pipelines, cloud analytics, and big data technologies.  
-🎓 Fresh Graduate in Information Systems, certified with **CompTIA DataSys+**.  
-🌱 Currently learning **Apache Airflow, ETL Automation, and Cloud Data Warehousing (Azure/GCP)**.  
-💡 Fun fact: I love automating boring stuff with Python scripts!  
+🎓 Fresh graduate in **Computer Science (Information Systems)** with a strong focus on **Data Engineering** and **Data Analysis**.  
+📜 Certified with **CompTIA DataSys+**, with solid knowledge in **data analysis, database management systems, and business intelligence**.  
+💻 Currently working as **Application Support**, ensuring smooth operation of applications while enhancing skills in SQL debugging, database management, and data-driven problem solving.  
 
 ---
 
 ### 🔍 About Me
-- 🚀 Interested in **Data Engineering, Database Administration, and Cloud Analytics**  
-- 🛠 Skills: **Python, SQL, Docker, Pentaho, Airflow**  
-- 📖 Currently exploring **Cloud platforms (Azure, GCP)** and data orchestration tools  
+- 🚀 Interested in **Data Analysis, Database Management Systems, and Business Intelligence**  
+- 🛠 Skills: **Python, SQL, ETL&ELT, Excell**  
 - ✨ Motto: *"Turning raw data into meaningful insights"*  
 
 ---
@@ -26,10 +24,10 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Irvandhar&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Irvandhar&show_icons=true&theme=blue_navy&count_private=true" height="150" alt="stats graph" />
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irvandhar&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irvandhar&layout=compact&langs_count=6&theme=blue_navy" height="150" alt="languages graph" />
 
 <!-- Streak Stats -->
 <!--<img src="https://streak-stats.demolab.com?user=Irvandhar&theme=dracula&hide_border=false" height="150" alt="streak graph" />-->
